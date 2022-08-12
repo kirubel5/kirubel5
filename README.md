@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kirubel5
-- 👀 I’m interested in hardware device: repair, design, prodiction; software development: mobile app, desktop app, web app with .NET; database: MySQL
-- 🌱 I’m currently learning electrical and computer engineering at addis ababa institute of technology
+- 👀 I’m interested in hardware device: repair, design, production; software development: mobile app, desktop app, web app with .NET; database: MySQL, SQLserver
+- 🌱 I’m currently learning electrical and computer engineering at addis ababa institute of technology (AAU)
 - 💞️ I’m looking to collaborate on anything that has to do with hardware devices and software development in C#
 - 📫 easily reach me at kirubelderessa6@gmail.com
 
